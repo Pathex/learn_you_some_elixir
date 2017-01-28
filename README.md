@@ -30,11 +30,11 @@ From now on you should edit this document and add an answer by replacing the pla
 
 Commit your answer ;-) (which you should do for every new answer you write.)
 
-<write your answer here>
+> write your answer here
 
 #### You are currently on a fork. But what are forks used for?
 
-<write your answer here>
+> write your answer here
 
 #### On github you can find the source code of many open source projects. Can you find the following code repositories? Please add the links in your answer:
 
@@ -44,7 +44,7 @@ Commit your answer ;-) (which you should do for every new answer you write.)
  - The Elixir programming language
  - The Elixir poenix framework
 
-<write your answer here>
+> write your answer here
 
 ### Introoduction to programming
 
@@ -55,11 +55,11 @@ There are thousands of programming languages out there. Different programming la
  - Object oriented programming
  - Functional programming
 
-<write your answer here>
+> write your answer here
 
 #### Find two examples for each of the above paradigms
 
-<write your answer here>
+> write your answer here
 
 ### Elixir programming
 
@@ -67,11 +67,11 @@ We now want to dive into the Elixir programming language. Elixir is a very young
 
 #### What is an actor?
 
-<write your answer here>
+> write your answer here
 
 #### What is pattern matching?
 
-<write your answer here>
+> write your answer here
 
 #### Some practise: Create your first actor in the Elixir interactive shell:
 
