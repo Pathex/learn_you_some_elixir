@@ -12,7 +12,7 @@ Ready? Then let's start
 
 ## Git and github
 
-Your first task is to create an account at guthub.com. Choose your nickname wise -> you shouldn't change it any more
+Your first task is to create an account at guthub.com. Choose your  nickname wise -> you shouldn't change it any more
 
 Done? Great! Then please find out how to fork a repository and try it out... with this one. Continue this tutorial by opening this webside again... but on your fork!
 
@@ -63,11 +63,16 @@ There are thousands of programming languages out there. Different programming la
  - Object oriented programming
  - Functional programming
 
-> write your answer here
+ - many little tasks are together the complete software
+ - "Tools" for programming
+ - mathematics funktions for programming
+
 
 #### Find two examples for each of the above paradigms
 
-> write your answer here
+- Procedual programming = Pascal and Basic
+- oop = Java and C#
+- Functional programming = Haskell and Miranda
 
 ### Elixir programming
 
@@ -75,7 +80,10 @@ We now want to dive into the Elixir programming language. Elixir is a very young
 
 #### What is an actor?
 
-> write your answer here
+- An actor is an mathematic model of concurrent computation.
+ - They can hold and modify private state
+ - Afect each other throught messanges
+
 
 #### What is pattern matching?
 
