@@ -38,7 +38,7 @@ Commit your answer ;-) (which you should do for every new answer you write.)
 
 #### You are currently on a fork. But what are forks used for?
 
-> write your answer here
+Forking means to make copys from the original to edit it.
 
 #### On github you can find the source code of many open source projects. Can you find the following code repositories? Please add the links in your answer:
 
@@ -48,7 +48,11 @@ Commit your answer ;-) (which you should do for every new answer you write.)
  - The Elixir programming language
  - The Elixir poenix framework
 
-> write your answer here
+ - https://github.com/torvalds/linux = linux
+ - https://github.com/boostorg/graph = boost graph library
+ - https://github.com/atom/atom/tree/master/src^= atom editor
+ - https://github.com/elixir-lang/elixir = Elixir programming languages
+ - https://github.com/phoenixframework/phoenix = phoenix framework
 
 ### Introoduction to programming
 
