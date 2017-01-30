@@ -30,7 +30,11 @@ From now on you should edit this document and add an answer by replacing the pla
 
 Commit your answer ;-) (which you should do for every new answer you write.)
 
-> write your answer here
+-git add put something in the index.
+-git push upload your fille to github
+-git clone download documents from github. You can then edit it after that.
+-git commit confirm your changes
+-git pull update your filles
 
 #### You are currently on a fork. But what are forks used for?
 
